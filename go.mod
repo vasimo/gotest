@@ -1,3 +1,3 @@
-module github.com/selonsy/gotest
+module github.com/vasimo/gotest
 
 go 1.16
